@@ -1,0 +1,32 @@
+{
+  "name": "reacttest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessietang/reactQa.git"
+  },
+  "author": "jessie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessietang/reactQa/issues"
+  },
+  "homepage": "https://github.com/jessietang/reactQa#readme",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-react": "^3.1.0",
+    "lodash": "^4.17.1",
+    "reactify": "^1.1.1"
+  }
+}
